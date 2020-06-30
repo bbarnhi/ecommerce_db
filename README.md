@@ -1,3 +1,9 @@
+This code was written by Johua Sigona & partner...   for reference.
+
+Especially look at SWITCH statement for display purposes. 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
